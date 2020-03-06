@@ -1,3 +1,10 @@
+Welcome to the noughts and crosses game. 
+I created this game using React with typescript and sass. 
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
